@@ -1,0 +1,48 @@
+*{
+    
+}
+span{
+    font-weight: 1000;
+}
+.orng_box{
+    color: white;
+    
+}
+.logo li{
+    list-style: none;
+    float: left;
+    padding: 4.5%;
+}
+.orng_box p{
+    text-align: left;
+    font-size: 100%;
+}
+.blank_box h3{
+    background-color: #f09165;
+    border: 5px solid black;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    float: right;
+    
+}
+.black_box{
+    border-left: 7px solid black;
+    padding: 2%;
+    
+}
+.graphics li{
+    list-style: none;
+    padding: 0.5%;
+}
+.footer{
+    margin-top: 10%
+}
+.footer li{
+    
+    list-style: none;
+    font-weight: 700;
+    font-size: 110%;
+}
+.green_box{
+    background-color: #72ada9;
+}
